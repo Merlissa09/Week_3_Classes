@@ -1,0 +1,15 @@
+/Users/melissahegney/Week_3_Classes/week_3/bin/Debug/net9.0/week_3
+/Users/melissahegney/Week_3_Classes/week_3/bin/Debug/net9.0/week_3.deps.json
+/Users/melissahegney/Week_3_Classes/week_3/bin/Debug/net9.0/week_3.runtimeconfig.json
+/Users/melissahegney/Week_3_Classes/week_3/bin/Debug/net9.0/week_3.dll
+/Users/melissahegney/Week_3_Classes/week_3/bin/Debug/net9.0/week_3.pdb
+/Users/melissahegney/Week_3_Classes/week_3/obj/Debug/net9.0/week_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissahegney/Week_3_Classes/week_3/obj/Debug/net9.0/week_3.AssemblyInfoInputs.cache
+/Users/melissahegney/Week_3_Classes/week_3/obj/Debug/net9.0/week_3.AssemblyInfo.cs
+/Users/melissahegney/Week_3_Classes/week_3/obj/Debug/net9.0/week_3.csproj.CoreCompileInputs.cache
+/Users/melissahegney/Week_3_Classes/week_3/obj/Debug/net9.0/week_3.sourcelink.json
+/Users/melissahegney/Week_3_Classes/week_3/obj/Debug/net9.0/week_3.dll
+/Users/melissahegney/Week_3_Classes/week_3/obj/Debug/net9.0/refint/week_3.dll
+/Users/melissahegney/Week_3_Classes/week_3/obj/Debug/net9.0/week_3.pdb
+/Users/melissahegney/Week_3_Classes/week_3/obj/Debug/net9.0/week_3.genruntimeconfig.cache
+/Users/melissahegney/Week_3_Classes/week_3/obj/Debug/net9.0/ref/week_3.dll
