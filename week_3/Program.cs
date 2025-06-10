@@ -24,9 +24,18 @@ Console.WriteLine("Hello, World!");
 //         break;
 // }
 
+
+Seasons season = Seasons.SPRING;
+Seasons season1 = Seasons.FALL;
+
+Console.WriteLine("The season: " + season);
+Console.WriteLine("The season1: " + season1);
+
 Car audi = new();
 audi.make = CarMake.AUDI;
 audi.Drive(75, 20);
+audi.setModel("Soul");
+Console.WriteLine("The model after setting soul " + audi.getModel());
 Car nissan = new();
 nissan.make = CarMake.NISSAN;
 nissan.Drive(50, 10);

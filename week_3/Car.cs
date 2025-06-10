@@ -4,6 +4,12 @@ public class Car
 
     private string model = "Mustang";
 
+    // public string Model
+    // {
+    //     get { return _model; }
+    //     set { _model = Model; }
+    // }
+
 
     // this is an example of a public getter for the model field/property
     public string getModel()
@@ -13,7 +19,9 @@ public class Car
 
     public void setModel(string model)
     {
-        this.model = "Custom" + model;
+        if (model == "Soul") return;
+
+        this.model = "Custom " + model;
     }
 
     private int speed = 0;
